@@ -4,5 +4,4 @@
 - 🔭 I’m currently working on developing my portfolio website.
 - 🌱 I’m currently learning MERN Stack
 - 💬 Ask me about anything related to design. Would love to help you out!
-- 📫 How to reach me: Linkedin : shreyas-sreedhar
-
+- 📫 How to reach me: Linkedin - [Shreyas Sreedhar](https://www.linkedin.com/in/shreyas-sreedhar)
