@@ -1,9 +1,21 @@
-### Namaskara 🙏 I'm Shreyas Sreedhar
+### Thanks for stopping by! 
+My github is currently on its redemption arc.
+<br>
 
-- 😄 Freelance Ui/UX Designer and a professional Automobile Vinyl Designer.
-- 🔭 I’m currently working on developing my portfolio website.
-- 🌱 I’m currently learning MERN Stack
-- 💬 Ask me about anything related to design. Would love to help you out!
-- 📫 How to reach me: Linkedin - [Shreyas Sreedhar](https://www.linkedin.com/in/shreyas-sreedhar) 
+<details>
+  <summary>Check out what I'm currently working on</summary>
+  
+  - [shreyas-sreedhar/portfolio](https://github.com/shreyas-sreedhar) - Building my portfolio here, you can find my rant on my [Twitter](https://twitter.com/imnotshreyas) 
+</details>
 
-![Shreyas Sreedhar Github Stats](https://github-readme-stats.vercel.app/api?username=shreyas-sreedhar&&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=151515)
+
+#### ⚡️ GitHub stats
+
+![Shreyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyas-sreedhar&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
+
+<br> 
+🫡 People who've stopped by
+
+![Profile Visitors Count](https://profile-counter.glitch.me/shreyas-sreedhar/count.svg)
