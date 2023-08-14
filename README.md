@@ -5,7 +5,7 @@ My github is currently on its redemption arc.
 <details>
   <summary>Check out what I'm currently working on</summary>
   
-  - [shreyas-sreedhar/portfolio](https://github.com/shreyas-sreedhar) - Building my portfolio here, you can find my rant on my [Twitter](https://twitter.com/imnotshreyas) 
+  - [shreyas-sreedhar/portfolio](https://shreyas-sreedhar.com) - Building my portfolio here, you can find my rant on my [Twitter](https://twitter.com/imnotshreyas) 
 </details>
 
 <br> 
