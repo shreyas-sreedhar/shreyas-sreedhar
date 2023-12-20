@@ -1,6 +1,6 @@
 ### Welcome to My GitHub Profile!
 
-Thank you for visiting my GitHub page; I'm on a redemption arc here, constantly improving and learning!
+Thank you for visiting my GitHub page; I'm on a stealth-learning arc here, constantly improving and learning!
 
 ## About Me
 I'm a passionate computer science student at Northeastern University, and I'm always looking for exciting coding projects to work on. You can find some of my latest projects right here on GitHub and please make sure to explore my academic github [repository](https://github.com/sreedhar-shreyas).
