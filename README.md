@@ -17,7 +17,7 @@ I'm a passionate computer science student at Northeastern University, and I'm al
 
 ## Connect with Me
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/shreyas-sreedhar/)
-- 📬 Reach out to me via email: [shreyas@example.com](mailto:shreyas.sreedhar@gmail.com)
+- 📬 Reach out to me via email: [shreyas@rightclickfortheemail.com](mailto:shreyas.sreedhar@gmail.com)
 
 ## 🫡 People Who've Stopped By
 ![Profile Visitors Count](https://profile-counter.glitch.me/shreyas-sreedhar/count.svg)
